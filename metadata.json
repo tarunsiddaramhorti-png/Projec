@@ -1,0 +1,10 @@
+{
+  "name": "Remix AeroTone - Acoustic Data Transfer",
+  "description": "Air-gapped acoustic modem for transmitting and receiving text and data over audio signals via Frequency-Shift Keying (FSK) and ultrasonic frequencies.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
